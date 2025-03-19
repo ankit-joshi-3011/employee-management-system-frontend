@@ -8,3 +8,6 @@
 1. Navigate to the ems folder within the folder in which this git repository was cloned.
 2. To install all the dependencies of this application, run the following command: ```npm install```
 3. To start the application, run the following command: ```npm start```. The application will now be accessible on ```http://localhost:3000```.
+
+## Limitations:
+1. Ideally, the back-end URL should not be hard coded.
