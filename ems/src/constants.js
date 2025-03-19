@@ -4,3 +4,4 @@ export const API_BACKEND_URL = 'http://localhost:8080'
 export const REST_API_BASE_URI_PATH = '/api';
 export const EMPLOYEE_REST_API_BASE_URI_PATH = REST_API_BASE_URI_PATH + '/employees';
 export const DEPARTMENT_REST_API_BASE_URI_PATH = REST_API_BASE_URI_PATH + '/departments';
+export const RETRIEVE_ACTIVE_MANAGERS_BY_DEPARTMENT_API_URI_PATH = EMPLOYEE_REST_API_BASE_URI_PATH + '/managers';
